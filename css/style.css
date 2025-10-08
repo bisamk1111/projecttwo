@@ -1,0 +1,42 @@
+
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+  background-color: #ffffff;  
+  color: black;
+  line-height: 1.5;
+  padding: 2rem;                
+}
+
+/* 2) Centered horizontal navigation (identical on every page) */
+nav {
+  background-color: #3c3c3c;
+  color:white;
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+nav ul {
+  list-style: none;            
+  display: flex;
+  justify-content: center;     
+  gap: 1rem;                
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  color: white;
+  text-decoration: italic;
+  font-weight: 600;
+  padding: 0.25rem 0.5rem;
+}
+
