@@ -78,5 +78,23 @@ video {
 	color: #ff1c88;
 	font-style:italic;
 }
-
+.hobbies .winter{
+	color:#006eaa;
+	font-weight: bolder;
+}
+.hobbies .summer{
+	color:#77ba62;
+	font-weight:lighter;
+}
+.hobbies .fall{
+	color:#e84319;
+	font-weight:bold;
+}
+.hobbies .spring{
+    color:#e8a6f4;
+	font-weight:light;
+}
+.hobbies .allyear{
+	color:#4c4968;
+}
 	
