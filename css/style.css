@@ -51,3 +51,13 @@ video {
   margin-bottom: 1.5rem;      
   border-radius: 0.5rem;
 }
+.home h2{
+	font-size: 1.5rem;
+	color:#5c5eff;
+	font-family:'Dancing Script';
+}
+.home .highlight{
+	color:#ff1c88;
+	font-weight:800;
+	font-style:italic;
+}
