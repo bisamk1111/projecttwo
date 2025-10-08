@@ -61,6 +61,11 @@ video {
 	font-weight:800;
 	font-style:italic;
 }
+.resume{
+	background-image:url(..'picground.jpg');
+	background-size:cover;
+	background-position:center;
+}
 .resume h1{
 	color:#5c5eff;
 }
