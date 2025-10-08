@@ -62,7 +62,7 @@ video {
 	font-style:italic;
 }
 .resume{
-	background-image:url(../'picground.jpg');
+	background-image:url('../picground.jpg');
 	background-size:cover;
 	background-position:center;
 }
@@ -71,7 +71,7 @@ video {
 }
 .resume{
 	max-width: 60rem;
-	margin: 0auto;
+	margin: 0 auto;
 	padding: 1.5rem;
 	font-size: 1rem;
 }
@@ -92,13 +92,13 @@ video {
 	font-weight: bolder;
 }
 .vid{
-	width:50%
-	heaight:80%
+	width:50%;
+	height:80%;
 	max-width:400px;
 	box-shadow: 0 8px 16px rgba(0,0,0,0.4);
 }
 .hobbies .summer{
-	color:black;
+	color:#77ba62;
 	font-weight:lighter;
 }
 .hobbies .fall{
