@@ -60,4 +60,23 @@ video {
 	color:#ff1c88;
 	font-weight:800;
 	font-style:italic;
+.resume{
+	max-width: 60rem;
+	margin: 0 auto;
+	padding: 1.5rem;
+	font-size: 1 rem;
 }
+.resume .sidebyside{
+	display: flex;
+	gap: 2rem;
+}
+.resume .sidebyside .contact h3{
+	color: #1e90ff;
+	font-style:italic;
+}
+.resume .sidebyside .profile h3{
+	color: #ff1c88;
+	font-style:italic;
+}
+
+	
