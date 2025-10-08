@@ -51,8 +51,13 @@ video {
   margin-bottom: 1.5rem;      
   border-radius: 0.5rem;
 }
+.home h1{
+	font-size:2rem;
+	font-weight:1200
+}
 .home h2{
 	font-size: 1.5rem;
+	font-weight:900;
 	color:#5c5eff;
 	font-family:'Dancing Script';
 }
@@ -89,7 +94,7 @@ video {
 }
 .hobbies .winter{
 	color:#006eaa;
-	font-weight: bolder;
+	font-weight: 900;
 }
 .vid{
 	width:50%;
@@ -99,15 +104,15 @@ video {
 }
 .hobbies .summer{
 	color:#77ba62;
-	font-weight:lighter;
+	font-weight:300;
 }
 .hobbies .fall{
 	color:#e84319;
-	font-weight:bold;
+	font-weight:700;
 }
 .hobbies .spring{
     color:#e8a6f4;
-	font-weight:normal;
+	font-weight:500;
 }
 .hobbies .allyear{
 	color:#4c4968;
