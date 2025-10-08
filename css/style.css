@@ -34,20 +34,21 @@ nav li {
 
 nav a {
   color: white;
-  text-decoration: italic;
+  text-decoration:none;
+  font-style:italic;
   font-weight: 600;
   padding: 0.25rem 0.5rem;
 }
 
 img,
 video {
-  width: 80%;                  /* relative width so it's fluid */
-  max-width: 60rem;            /* maximum size (rem units) */
+  width: 80%;                  
+  max-width: 60rem;            
   height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 1.5rem;          /* space above media */
-  margin-bottom: 1.5rem;       /* space below media */
+  margin-top: 1.5rem;          
+  margin-bottom: 1.5rem;      
   border-radius: 0.5rem;
 }
