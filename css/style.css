@@ -63,9 +63,9 @@ video {
 }
 .resume{
 	max-width: 60rem;
-	margin: 0 auto;
+	margin: 0auto;
 	padding: 1.5rem;
-	font-size: 1 rem;
+	font-size: 1rem;
 }
 .resume .sidebyside{
 	display: flex;
