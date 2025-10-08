@@ -92,6 +92,14 @@ video {
 	color: #ff1c88;
 	font-style:italic;
 }
+.resume h3{
+	font-size:1.5rem;
+	font-weight:800;
+}
+.resume h4{
+	font-size:1.3rem;
+	font-weight:500;
+}
 .hobbies .winter{
 	color:#006eaa;
 	font-weight: 900;
