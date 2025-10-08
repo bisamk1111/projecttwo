@@ -62,9 +62,7 @@ video {
 	font-style:italic;
 }
 .resume{
-	background-image:url('../picground.jpg');
-	background-size:cover;
-	background-position:center;
+	background-image:url('../images/picground.jpg');
 }
 .resume h1{
 	color:#5c5eff;
@@ -102,7 +100,7 @@ video {
 	font-weight:lighter;
 }
 .hobbies .fall{
-	color:black;
+	color:#e84319;
 	font-weight:bold;
 }
 .hobbies .spring{
