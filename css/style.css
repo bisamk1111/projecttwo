@@ -87,6 +87,7 @@ video {
 .resume .sidebyside .contact h3{
 	color: #1e90ff;
 	font-style:italic;
+	
 }
 .resume .sidebyside .profile h3{
 	color: #ff1c88;
@@ -98,7 +99,7 @@ video {
 }
 .resume h4{
 	font-size:1.3rem;
-	font-weight:500;
+	font-weight:600;
 }
 .hobbies .winter{
 	color:#006eaa;
